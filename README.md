@@ -1,1 +1,1 @@
-"# responsive-images-blog" 
+# responsive-images-blog
